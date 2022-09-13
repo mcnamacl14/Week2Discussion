@@ -1,0 +1,43 @@
+body{
+    background: rgb(255, 255, 160);
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+ 
+ nav ul li{
+    background-color:lightblue;
+	padding:10px;
+	border:1px solid black;
+	display: inline-block;
+	width: 20%;
+    border-radius: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular','Lucida Grande' ;
+
+ }
+
+ img{
+    padding: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 24%;
+    border-color: blue;
+    border-style: dashed;
+    border-width: 10px;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
